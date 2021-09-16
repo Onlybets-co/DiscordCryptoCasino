@@ -1,3 +1,3 @@
-secret = "YOUR_BOT_SECRET"
+secret = "vPtdNEO-odBKxLHOu55-irp-fPt4Y9d-"
 
 
